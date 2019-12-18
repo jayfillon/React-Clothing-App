@@ -5,7 +5,9 @@
   letter-spacing: 0.5px;
   line-height: 50px;
   padding: 0 35px 0 35px;
-  font-size: 12px;
+  //If the button doesnt show all the way for google.
+  //Maybe custom class? custom attributes?
+  font-size: 14px;
   background-color: rgb(75, 75, 75);
   color: white;
   text-transform: uppercase;
